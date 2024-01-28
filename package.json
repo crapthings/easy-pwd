@@ -1,0 +1,20 @@
+{
+  "name": "easy-pwd",
+  "version": "1.0.0",
+  "description": "an easy way to hash and compare password",
+  "main": "source.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["password", "hash password", "compare password", "crypto", "bcrypt"],
+  "author": "crapthings@gmail.com",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/crapthings/easy-pwd.git"
+  },
+  "bugs": {
+    "url": "https://github.com/crapthings/easy-pwd/issues"
+  },
+  "homepage": "https://github.com/crapthings/easy-pwd"
+}
